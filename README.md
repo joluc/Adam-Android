@@ -15,7 +15,8 @@ Die API ermöglicht den Abruf des Betriebszustandes ausgewählter Aufzüge der D
 Eine Beschreibung der API steht unten zum Download bereit.
 
 ## APPS:
-iOS: https://github.com/joluc/ADAM-App/
+iOS: https://github.com/joluc/ADAM-App/ 
+
 Android: https://github.com/joluc/Adam-Android
 
 ## APIS:
